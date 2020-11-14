@@ -1,0 +1,108 @@
+/* this nav style contains the li elements and holds it in */
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: navy; }
+
+/* to make the text in the nav bar to the left and the line to the right of each one    */
+li {
+  float: left;
+  border-right: 1px solid grey; }
+
+/* this is to make the nav bar links not look like links with a blue outline while aligning it in the center */
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 24px;
+  text-decoration: none; }
+
+/* hovering over the navbar links highlight it */
+li a:hover:not(.active) {
+  background-color: blue; }
+
+/* make the main images on home,about and blog fit on phone */
+@media screen and (max-width: 380px) {
+  .fit {
+    width: 100%;
+    height: 50%; } }
+/* this is to add a little space up top */
+img {
+  padding: 5px 0px 0px 0px; }
+
+/* without this the images on index.html and about.html would be going through the screen on the phone */
+.box {
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+
+/*  make the text areas look bigger and have a margin so they arent clumped together with the inputs  */
+textarea {
+  width: 350px;
+  height: 50px;
+  margin-top: 50px; }
+
+/*  make the inputs look bigger and have a margin so they arent clumped together with the text areas  */
+input {
+  width: 350px;
+  margin-top: 50px; }
+
+/* h1 element on index.html */
+.text-big {
+  text-align: center;
+  font-size: 3rem; }
+
+/* to align and make the text bigger on the blog */
+.text-bigg {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 40px; }
+
+/* used on about.html and blog.html to make the p elements wrap around when going out of screen  */
+.big {
+  display: inline;
+  flex-wrap: wrap;
+  font-size: 1.2rem;
+  word-wrap: break-word; }
+
+/* without this the blog would be going through the screen on the phone */
+.row {
+  display: flex;
+  flex-wrap: wrap; }
+
+/* to add a border around the images and text so it fits on the phone and desktop */
+.column {
+  flex: 100%;
+  margin: 20px 0px 0px 0px;
+  border: 1px solid #021a40; }
+
+/* h2 elements align to the center  */
+h2 {
+  text-align: center; }
+
+/* time elements have a opacity to it  */
+time {
+  opacity: 0.5; }
+
+/* footer makes it so if you scroll it sticks to the bottom of the screen */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: powderblue;
+  text-align: center; }
+
+/* h1 elements are put in the center  */
+h1 {
+  text-align: center; }
+
+/* this is to add a place for the footer to fit into at the bottom so it makes it look nice */
+body {
+  min-height: 400px;
+  margin-bottom: 100px;
+  clear: both; }
+
+/*# sourceMappingURL=style.css.map */

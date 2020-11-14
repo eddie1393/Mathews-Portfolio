@@ -1,0 +1,83 @@
+commit a2a694abcdced8ada700ce8a606d46126966a43f
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Fri Nov 13 23:44:01 2020 +0000
+
+    completely done website
+
+commit 175b105d451d6edb234dd8971155dd7d3c10955c
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Fri Nov 13 22:42:20 2020 +0000
+
+     comment tags dis and dat little patch up too
+
+commit c990c327dc4b05989c78d65d147b348790370378
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Fri Nov 13 22:15:05 2020 +0000
+
+    nav bar sticky to the bottom like a lolipop
+
+commit dbb9099f35c1464e4d9e7f61fc62bf3cc91f5baf
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Wed Nov 11 23:00:48 2020 +0000
+
+    completed and touched up websites needs more info
+
+commit 11f8b766c437bc57d23fe524a169de156db2f295
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Wed Nov 11 12:16:43 2020 +0000
+
+    finishing thein portfolio so i can finally chill
+
+commit 37c38c5de7d03f7478450c3467a9b637985334f0
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Wed Nov 11 07:25:14 2020 +0000
+
+    logo hyperlinks go brrrrr
+
+commit 9e01ea59e303d9f0e25fee023674f06807fde802
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Tue Nov 10 20:23:22 2020 +0000
+
+    finish product for the blog website smiles
+
+commit 6ccda2695bd2f29867225671425372d44b8da318
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Tue Nov 10 19:02:34 2020 +0000
+
+    reworks in the making
+
+commit ed8e5f534a08bd5ff533bc3764f293db387f5655
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Tue Nov 10 18:48:45 2020 +0000
+
+    newer and more responsive layout to the top nav bar
+
+commit 16657ce04645a65e55f4ddb75ad24ea1f62b8398
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Mon Nov 9 20:30:46 2020 +0000
+
+    cute doggo with five balls in its mouth
+
+commit d2f69a0d553bb6bec1c87db99be47837c7dbe301
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Sun Nov 8 20:29:21 2020 +0000
+
+    work in progress blog website
+
+commit b152d44f2fdf4baea98eb2d30d9763ab58337d9f
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Sun Nov 8 19:08:26 2020 +0000
+
+    mathews face shall be put into a website
+
+commit 2e2908b4e6201834f963fe87ee9f02a278b39376
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Fri Nov 6 06:30:51 2020 +0000
+
+    bars are things you type into
+
+commit 2374d00203dd647ec03933a68ffa5f34e37968fb
+Author: Mathew Polus <mathew.polus@hotmail.com>
+Date:   Fri Nov 6 03:57:45 2020 +0000
+
+    canine
